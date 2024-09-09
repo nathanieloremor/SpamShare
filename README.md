@@ -1,2 +1,4 @@
 # SpamShare
-git clone 
+git clone https://github.com/nathanieloremor/SpamShare.git
+cd SpamShare
+python share.py
